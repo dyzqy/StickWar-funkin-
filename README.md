@@ -28,3 +28,7 @@ check SWL or original SW flash game :p
 - Lore Maker - dyzqy#2239, Pan-demic#9023, Funny132#9850, 
 
 (fun fact Ase's son is dyzqy)
+<!-- hidden text moment(dont delete lol)-->
+
+# Changelog
+(nothing here for now)
